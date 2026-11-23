@@ -1,0 +1,24 @@
+SALVAR O ESTADO ATUAL:
+
+
+Pare a tarefa atual e não faça novas alterações no código do sistema. Crie um arquivo chamado `HANDOFF.md` na raiz do projeto documentando em detalhes todo o contexto necessário para retomarmos este trabalho em outro computador.
+
+O arquivo `HANDOFF.md` deve conter obrigatoriamente:
+1. **Objetivo Geral:** O que estamos construindo e a arquitetura/stack utilizada.
+2. **O que já foi concluído:** Lista detalhada dos arquivos criados/modificados e funcionalidades já prontas.
+3. **Estado Atual (Ponto exato de parada):** O que estava sendo feito no momento em que paramos, incluindo qualquer arquivo incompleto, pendência imediata ou erro em aberto.
+4. **Decisões Técnicas e Regras:** Padrões de código, convenções, variáveis de ambiente necessárias (sem expor valores secretos reais) e dependências instaladas.
+5. **Próximos Passos (Plano de Ação):** Lista ordenada e exata das próximas tarefas que você deve executar assim que retomarmos.
+
+Verifique os arquivos atuais do workspace antes de escrever para garantir que o `HANDOFF.md` reflita fielmente o estado real do código no disco. Ao finalizar, apenas me avise que o arquivo está pronto e salvo.
+
+
+
+
+
+------------------------------------------
+CONTINUAR EM OUTRA MAQUINA
+
+Estamos retomando a implementação deste sistema a partir de outro computador. Leia atentamente o arquivo `@HANDOFF.md` na raiz do projeto e inspecione a estrutura atual dos arquivos mencionados nele para recuperar todo o contexto.
+
+Antes de alterar qualquer código, me apresente um breve resumo do ponto exato em que paramos e confirme qual será o primeiro passo que você vai executar. Aguarde minha confirmação para prosseguir.
